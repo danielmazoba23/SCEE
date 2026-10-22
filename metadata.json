@@ -1,0 +1,6 @@
+{
+  "name": "SCEE Explorer",
+  "description": "Application pédagogique interactive pour comprendre le Système de Comptabilité Économique et Environnementale (SCEE / SEEA de l'ONU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
